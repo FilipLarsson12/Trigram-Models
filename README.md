@@ -11,5 +11,5 @@ which two-character input is currently being fed to the network. The Neural Net 
 distribution over the next character and we will then sample from this distribution to actually generate names.
 
 I will compare the two approaches by calculating the Negative Log-Likelihood.
-My dataset is in the 
+My dataset is in the names_dataset.txt.
 I will use an 80/20 train-test split.
