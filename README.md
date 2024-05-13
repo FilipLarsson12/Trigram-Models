@@ -11,7 +11,7 @@ and then sampling from that matrix to generate names.
 ## Approach 2
 The second approach consists of using a Neural Net consisting of 27 Neurons that will take as input a one-hot encoded vector signaling
 which two-character input is currently being fed to the network. The Neural Net will then produce an output in the form of a probability
-distribution over the next character and we will then sample from this distribution to actually generate names.
+distribution over the next character and we will then sample from this distribution to generate names.
 
 ## Metric and Dataset
 I will compare the two approaches by calculating the Negative Log-Likelihood.
