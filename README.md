@@ -16,4 +16,4 @@ distribution over the next character and we will then sample from this distribut
 ## Metric and Dataset
 I will compare the two approaches by calculating the Negative Log-Likelihood.
 My dataset is in the names_dataset.txt containing a little more than 32K names.
-I will use an 80/20 train-test split.
+I will use an 80/10/10 train-val-test split.
