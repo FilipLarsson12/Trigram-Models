@@ -1,6 +1,6 @@
 # Trigram-Models
 
-Comparison of two approaches of Trigram Models
+Comparison of two approaches of Trigram Models.
 I will use these Trigram models to produce realistic names.
 By Trigram model I mean that the model takes in two input characters and generates a third output character to produce text.
 
